@@ -1,0 +1,41 @@
+{
+    "orderId": "#123",
+    "customer": {
+      "firstName": "John",
+      "lastName": "Doe",
+      "age": 25,
+      "email": "john.doe@email.com",
+      "phone": "12345678",
+      "address": "123 Main St",
+      "city": "Anytown",
+      "zip": "12345",
+      "country": "USA"
+    },
+    "products": [
+      {
+        "name": "Product 1",
+        "cost": 100,
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Rem praesentium aliquam vero, tenetur delectus nihi explicabo. Quo distinctio ab deserunt modi fuga minus veniam? Nam omnis beatae vel voluptatem fuga."
+      },
+      {
+        "name": "Product 2",
+        "cost": 200,
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Rem praesentium aliquam vero, tenetur delectus nihi explicabo. Quo distinctio ab deserunt modi fuga minus veniam? Nam omnis beatae vel voluptatem fuga."
+      },
+      {
+        "name": "Product 3",
+        "cost": 400,
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Rem praesentium aliquam vero, tenetur delectus nihi explicabo. Quo distinctio ab deserunt modi fuga minus veniam? Nam omnis beatae vel voluptatem fuga."
+      },
+      {
+        "name": "Product 4",
+        "cost": 1044,
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Rem praesentium aliquam vero, tenetur delectus nihi explicabo. Quo distinctio ab deserunt modi fuga minus veniam? Nam omnis beatae vel voluptatem fuga."
+      },
+      {
+        "name": "Product 5",
+        "cost": 101,
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Rem praesentium aliquam vero, tenetur delectus nihi explicabo. Quo distinctio ab deserunt modi fuga minus veniam? Nam omnis beatae vel voluptatem fuga."
+      }
+    ]
+  } 

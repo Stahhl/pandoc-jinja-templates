@@ -1,0 +1,11 @@
+{
+    "sheep": {
+        "eat": "grass",
+        "names": [
+            "foo",
+            "bar",
+            "fizz",
+            "buzz"
+        ]
+    }
+}

@@ -1,0 +1,9 @@
+# sheep eat {{ sheep.eat }}
+
+<ul>
+{% for item in sheep.names %}
+<li>{{ item }}</li>
+{% endfor %}
+</ul>
+
+{{ ', '.join(sheep.names) }}
